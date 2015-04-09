@@ -1,0 +1,16 @@
+body {
+    background-color: #d0e4fe;
+    color: yellow;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url("paradise.jpg");
+}
+
+#send {
+	height: 50px;
+	width: 70px;
+}
+
+#field {
+	height: 100px;
+}

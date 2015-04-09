@@ -1,0 +1,11 @@
+{
+  "name": "RealTimeWebChat",
+  "version": "0.0.0",
+  "description": "Emmanuel Vo Real time web chat",
+  "dependencies": {
+    "express": "^4.12.2",
+    "jade": "latest",
+    "socket.io": "latest"
+  },
+  "author": "Emmanuel Vo"
+}
